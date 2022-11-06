@@ -57,5 +57,5 @@ File Name: [your-vurn].ini
 First, [download Git](https://git-scm.com/downloads) then run this code in your term
 ```shell
 mkdir mycopy
-git clone 
+git clone https://github.com/FreGitHu/super-hack.git
 ```
